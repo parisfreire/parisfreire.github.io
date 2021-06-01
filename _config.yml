@@ -1,0 +1,63 @@
+# Site settings
+title: "Paris Freire | Senior Software Engineer"
+description: "A resume template for Jekyll and GitHub Pages sites."
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Paris Freire"
+resume_title:                   "Senior Software Engineer"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "parisfreiregallego@gmail.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_email:       "parisfreiregallego@gmail.com"
+resume_contact_name:        "Paris Freire"
+
+resume_header_contact_info:     "parisfreiregallego@gmail.com"
+display_header_contact_info:    "true"
+
+resume_header_intro: "<p>
+                      7+ years experience focusing on full stack development. <br><br>
+                      
+                      Proactive, detail-oriented, problem solving and hard-worker. Proficient at identifying core objectives, mapping out the workflows required to accomplish those objectives and reducing friction using programming paradigms, principles, standards and agile methodologies accordingly. <br><br>
+
+                      London-based. Seeking a technically challenging front end oriented role.
+                      </p>"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
+resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/parisfreire"
+  resume_twitter_url:           "http://twitter.com/parisfreire"
+  # resume_dribbble_url:          "insert Dribbble"
+  # resume_facebook_url:          "insert Facebook URL here"
+  # resume_linkedin_url:          "insert LinkedIn URL here"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "https://www.parisfreire.com"
+  # resume_medium_url:            "insert Medium URL here"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

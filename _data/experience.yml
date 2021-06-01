@@ -1,0 +1,42 @@
+# Jobs
+- company: LegalZoom UK
+  position: Senior Software Engineer / Technical Lead
+  duration: May, 2019 &mdash; Present
+  summary: LegalZoom is a trusted technology platform that gives the UK market access to professional legal advice such as starting a new business, trademarks, writting a will, etc..
+          <br><br>
+          As a part of a cross-functional team, I was able to support, refine and push functionality to one of their flagship product for companies formation while leading greenfield products from concept to release stages.<br><br>
+          
+          <ul class="resume-item-list">
+            <li>Improved my knowledge about Event-Driven and Reactive architectures based on REST API microservices.</li>
+            <li>Incorporated new business partnerships either through already existing applications or new ones</li>
+            <li>Gained technical expertise in Companies House GOV.UK API.</li>
+            <li>Maintained and integrated payment platforms.</li>
+          </ul>
+
+          <br>
+          <strong>Tech involved&colon;</strong> Angular 7 (TypeScript, RxJS, Webpack, Node, NPM, SSE Events, Protractor, Jasmine, Karma, Grunt), React, Redux, Grails Framework (Maven, Gradle, Spring, Spring Boot, Hibernate), Kotlin, MySQL, PostgreSQL, MongoDB, Docker, RabbitMQ, AWS (S3, EC2, Cognito, Cloudwatch, Lambda)
+
+- company: Grupo Aluman
+  position: Software Engineer
+  duration: Oct, 2014 &mdash; Dec, 2018
+  summary: Grupo Aluman is an international industrial and architecture company with presence in more than 50 countries. <br><br>
+
+          During my time at Grupo Aluman, I worked on maintaining and implementing new functionaly to the core product, a web-based ERP application (HR, CRM, Business Intelligence and Inventory management). <br><br>
+          
+          <ul class="resume-item-list">
+            <li>Migration from a monolithic architecture to a REST API and microservices oriented architecture.</li>
+            <li>Refactor from a blocking and synchronous to a non-blocking asynchronous using event-driven and ETL architectures.</li>
+            <li>Produced front-end apps for already migrated backend microservices.</li>
+            <li>Implemented FACe e-invoicing models to fully automate tax obligations with public administrations from Spanish Government.</li>
+          </ul>
+          
+          <strong>Tech involved&colon;</strong> HTML5, CSS3, ES5 JS, Angular 2 (TypeScript, RxJS, Webpack, Node, NPM), Grails Framework (Java, Groovy, Spring, Spring Boot, Hibernate, Maven, Gradle), MySQL, PostgreSQL, MongoDB, RabbitMQ
+
+- company: Softtek
+  position: Trainee Developer (Internship)
+  duration: Apr, 2014  &mdash; Jun, 2014
+  summary: Softtek is a global company and the largest provider of IT services from Latin America, with presence in North America, Latin America, Europe and Asia.
+           <br><br>
+           Throughout my intership in Softtek, I was responsible of normalising data for an Anti-Money Laundering (AML) and Know Your Customer (KYC) application, using different data patterns, automatization tools and scripting techniques to provide and present faithful data.
+           <br><br>
+           <strong>Tech involved&colon;</strong> HTML5, CSS3, Bootstrap, JS, jQuery, VBA, MySQL
