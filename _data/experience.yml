@@ -1,8 +1,24 @@
 # Jobs
+- company: Ministry Of Justice UK
+  position: Senior UI Engineer (Contract)
+  duration: Jul, 2021 &mdash; Oct, 2023
+  summary: I was part of different agile teams including BPOs, BE, QA & UX, refining and implementing design specs for multiple UI contexts from HMCTS Common Platform Programme. 
+
+    <ul class="resume-item-list">
+      <li>Event-Driven micro-frontends using REST, CQRS, Event Sourcing and Domain Driven Design.</li>
+      <li>Reactive state management using NgRx.</li>
+      <li>High code reliability through unit and E2E testing coverage.</li>
+      <li>Projects migration from Angular 8-9 to 14.</li>
+      <li>GOV.UK Design System and WCAG accesibility.</li>
+    </ul>
+    <br>
+    <strong>Tech involved&colon;</strong> Angular 8 - 14 (TypeScript, RxJS, NgRx, Webpack, Node, NPM, Protractor, Jest, Jasmine), Azure, Jenkins, Gerrit.
+
+
 - company: LegalZoom UK
-  position: Senior Software Engineer / Technical Lead
-  duration: May, 2019 &mdash; Present
-  summary: LegalZoom is a trusted technology platform that gives the UK market access to professional legal advice such as starting a new business, trademarks, writting a will, etc..
+  position: Senior Software Engineer
+  duration: May, 2019 &mdash; Jun, 2021
+  summary: LegalZoom is a trusted technology platform that gives the UK market access to professional legal advice such as starting a new business, trademarks, writing a will, etc..
           <br><br>
           As a part of a cross-functional team, I was able to support, refine and push functionality to one of their flagship product for companies formation while leading greenfield products from concept to release stages.<br><br>
           
@@ -14,14 +30,14 @@
           </ul>
 
           <br>
-          <strong>Tech involved&colon;</strong> Angular 7 (TypeScript, RxJS, Webpack, Node, NPM, SSE Events, Protractor, Jasmine, Karma, Grunt), React, Redux, Grails Framework (Maven, Gradle, Spring, Spring Boot, Hibernate), Kotlin, MySQL, PostgreSQL, MongoDB, Docker, RabbitMQ, AWS (S3, EC2, Cognito, Cloudwatch, Lambda)
+          <strong>Tech involved&colon;</strong> Angular 7 (TypeScript, RxJS, Webpack, Node, NPM, SSE Events, Protractor, Jest), React, Redux, Grails Framework (Maven, Gradle, Spring, Spring Boot, Hibernate), Kotlin, MySQL, PostgreSQL, MongoDB, Docker, RabbitMQ, AWS (S3, EC2, Cognito, Cloudwatch, Lambda)
 
 - company: Grupo Aluman
   position: Software Engineer
   duration: Oct, 2014 &mdash; Dec, 2018
   summary: Grupo Aluman is an international industrial and architecture company with presence in more than 50 countries. <br><br>
 
-          During my time at Grupo Aluman, I worked on maintaining and implementing new functionaly to the core product, a web-based ERP application (HR, CRM, Business Intelligence and Inventory management). <br><br>
+          During my time at Grupo Aluman, I worked on maintaining and implementing new functionality to the core product, a web-based ERP application (HR, CRM, Business Intelligence and Inventory management). <br><br>
           
           <ul class="resume-item-list">
             <li>Migration from a monolithic architecture to a REST API and microservices oriented architecture.</li>
@@ -30,13 +46,13 @@
             <li>Implemented FACe e-invoicing models to fully automate tax obligations with public administrations from Spanish Government.</li>
           </ul>
           
-          <strong>Tech involved&colon;</strong> HTML5, CSS3, ES5 JS, Angular 2 (TypeScript, RxJS, Webpack, Node, NPM), Grails Framework (Java, Groovy, Spring, Spring Boot, Hibernate, Maven, Gradle), MySQL, PostgreSQL, MongoDB, RabbitMQ
+          <strong>Tech involved&colon;</strong> HTML5, CSS3, ES5 JS, Angular 2 (TypeScript, Webpack, Node, NPM), Grails Framework (Java, Groovy, Spring, Spring Boot, Hibernate, Maven, Gradle), MySQL, PostgreSQL, MongoDB, RabbitMQ
 
 - company: Softtek
   position: Trainee Developer (Internship)
   duration: Apr, 2014  &mdash; Jun, 2014
-  summary: Softtek is a global company and the largest provider of IT services from Latin America, with presence in North America, Latin America, Europe and Asia.
+  summary: Softtek is a global company and the largest provider of IT services from Latin America, with presence in North America, Europe and Asia.
            <br><br>
-           Throughout my intership in Softtek, I was responsible of normalising data for an Anti-Money Laundering (AML) and Know Your Customer (KYC) application, using different data patterns, automatization tools and scripting techniques to provide and present faithful data.
+           Throughout my internship in Softtek, I was responsible of normalising data for an Anti-Money Laundering (AML) and Know Your Customer (KYC) application, using different data patterns, automatization tools and scripting techniques to provide and present faithful data.
            <br><br>
            <strong>Tech involved&colon;</strong> HTML5, CSS3, Bootstrap, JS, jQuery, VBA, MySQL

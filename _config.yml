@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Paris Freire"
 resume_title:                   "Senior Software Engineer"
 
@@ -24,11 +24,11 @@ resume_header_contact_info:     "parisfreiregallego@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>
-                      7+ years experience focusing on full stack development. <br><br>
+                      9+ years experience focusing on full stack development. <br><br>
                       
                       Proactive, detail-oriented, problem solving and hard-worker. Proficient at identifying core objectives, mapping out the workflows required to accomplish those objectives and reducing friction using programming paradigms, principles, standards and agile methodologies accordingly. <br><br>
 
-                      London-based. Seeking a technically challenging front end oriented role.
+                      London-based. Seeking a technically challenging front-end / full stack oriented remote role.
                       </p>"
 
 # Decide which sections to use

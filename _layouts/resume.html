@@ -87,22 +87,26 @@
       {% endif %}
 
       {% if site.resume_section_projects %}
+
+<!--      COMMENT OUT-->
+
+      
       <!-- begin Projects -->
-      <section class="content-section">
-        <header class="section-header">
-          <h2>Projects</h2>
-        </header>
+<!--      <section class="content-section">-->
+<!--        <header class="section-header">-->
+<!--          <h2>Projects</h2>-->
+<!--        </header>-->
 
-        {% for project in site.data.projects %}
-        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
-          <p class="resume-item-copy">{{ project.description }}</p>
-        </div>
-        {% endfor %}
+<!--        {% for project in site.data.projects %}-->
+<!--        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">-->
+<!--          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />-->
+<!--          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>-->
+<!--          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>-->
+<!--          <p class="resume-item-copy">{{ project.description }}</p>-->
+<!--        </div>-->
+<!--        {% endfor %}-->
 
-      </section>
+<!--      </section>-->
       <!-- end Projects -->
       {% endif %}
 
@@ -229,9 +233,6 @@
       <!-- end Print Social Links -->
       {% endif %}
 
-      <footer class="page-footer">
-        <p class="footer-line">Paris Freire's resume template powered by <a href="https://jekyllrb.com">Jekyll framework</a>. Fork me on <a href="https://github.com/parisfreire/resume-template">GitHub</a>.</p>
-      </footer>
 
     </div>
 
